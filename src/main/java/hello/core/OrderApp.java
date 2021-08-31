@@ -31,6 +31,5 @@ public class OrderApp {
 
         System.out.println(order.calculatePrice());
 
-
     }
 }
